@@ -1,0 +1,9 @@
+[submodule "MDK"]
+	path = MDK
+	url = https://github.com/GameProgressive/MDK
+[submodule "MasterServer"]
+	path = MasterServer
+	url = https://github.com/GameProgressive/MasterServer
+[submodule "RetroSpyServer"]
+	path = RetroSpyServer
+	url = https://github.com/GameProgressive/RetroSpyServer
