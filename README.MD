@@ -1,17 +1,9 @@
-# FullBuild
+# GameSpy Emulator
 
-Performs Complete Build of GameProgressive Master Server with all the submodules.
+This repository clone everything you need to start using the RetroSpy Emulator.,
 
-The modules can be enabled and disabled by using CMake options.
-
-### Cloning submodules
+Make sure to write this command after you cloned the repository:
 `git submodule update --init --recursive --force`
-
-### List of options
-
-| Option | Description |
-| --- | --- |
-| WITH_RETROSPY | Enable RetroSpy Server building |
 
 ### Notes
 
