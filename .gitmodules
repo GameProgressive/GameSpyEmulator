@@ -1,6 +1,6 @@
-[submodule "MDK"]
-	path = MDK
-	url = https://github.com/GameProgressive/MDK
+[submodule "ModuleDevelopmentKit"]
+	path = ModuleDevelopmentKit
+	url = https://github.com/GameProgressive/ModuleDevelopmentKit
 [submodule "MasterServer"]
 	path = MasterServer
 	url = https://github.com/GameProgressive/MasterServer
