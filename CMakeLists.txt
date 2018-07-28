@@ -5,9 +5,9 @@ if (WIN32)
 set(WITH_CURL OFF)
 endif()
 
-include_directories(MDK/include)
+include_directories(ModuleDevelopmentKit/include)
 
-add_subdirectory(MDK)
+add_subdirectory(ModuleDevelopmentKit)
 add_subdirectory(MasterServer)
 add_subdirectory(RetroSpyServer)
 
