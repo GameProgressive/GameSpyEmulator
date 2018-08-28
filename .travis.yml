@@ -9,6 +9,7 @@ env:
   - 'BUILD_TYPE=Debug'
   
 before_script:
+  - sudo apt-get install libuv1-dev libmariadb-dev
   - mkdir build
   - cd build
   - cmake -DCMAKE_BUILD_TYPE=$BUILD_TYPE ..
