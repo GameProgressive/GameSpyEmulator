@@ -381,3 +381,5 @@ INFO_BIN
 *-servertrace.txt
 RetroSpy.ini
 build_*
+/build*
+nbproject/
