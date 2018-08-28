@@ -1,5 +1,7 @@
 language: cpp
 
+sudo: required
+
 compiler:
   - clang
   - gcc
@@ -9,7 +11,8 @@ env:
   - 'BUILD_TYPE=Debug'
   
 before_script:
-  - sudo apt-get install libuv1-dev libmariadb-dev
+  - sudo apt-get update 
+  - sudo apt-get install -y libuv1-dev libmariadb-dev
   - mkdir build
   - cd build
   - cmake -DCMAKE_BUILD_TYPE=$BUILD_TYPE ..

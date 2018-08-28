@@ -4,7 +4,7 @@ if(POLICY CMP0025)
 cmake_policy(SET CMP0025 NEW)
 endif()
 
-project("FullBuild")
+project("GameSpyEmulator")
 
 if(WIN32)
 set(WITH_CURL OFF)
