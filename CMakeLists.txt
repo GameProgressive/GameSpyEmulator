@@ -11,6 +11,7 @@ set(WITH_CURL OFF)
 endif()
 
 set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -D_DEBUG")
 
 include_directories(ModuleDevelopmentKit/include)
 
