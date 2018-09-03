@@ -7,3 +7,6 @@
 [submodule "RetroSpyServer"]
 	path = RetroSpyServer
 	url = https://github.com/GameProgressive/RetroSpyServer
+[submodule "N7Network"]
+	path = N7Network
+	url = https://github.com/GameProgressive/N7Network
