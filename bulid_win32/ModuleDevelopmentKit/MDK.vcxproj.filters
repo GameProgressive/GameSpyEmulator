@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\Database.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\Query.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\TemplateClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\TemplateServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\TemplateSocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\Database.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\MDK_Definitions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\mdkstdint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\ModuleEntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\Utility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\Query.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\TemplateClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\TemplateServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\include\MDK\TemplateSocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E759354B-758A-39E1-8F91-FB6CEA2577F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B8E1F182-32EB-366F-AF35-A044FA97035E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

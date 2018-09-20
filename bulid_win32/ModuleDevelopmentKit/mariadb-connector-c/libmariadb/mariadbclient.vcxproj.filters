@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\plugins\auth\my_auth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\plugins\auth\old_password.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\plugins\pvio\pvio_socket.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_charset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_hash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_net.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\mariadb_charset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_default.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_errmsg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\mariadb_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_pvio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_tls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_alloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_password.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_ll2str.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_sha1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\mariadb_stmt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_loaddata.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_stmt_codec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_dtoa.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\bulid_win32\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_client_plugin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\secure\schannel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\secure\ma_schannel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\win-iconv\win_iconv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\gzclose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\gzlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\gzread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\gzwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\zlib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\mariadb_dyncol.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\mariadb_async.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\ma_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\mariadb-connector-c\libmariadb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B8E1F182-32EB-366F-AF35-A044FA97035E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

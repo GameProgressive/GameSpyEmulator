@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\fs-poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\inet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\threadpool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\uv-common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\uv-data-getter-setters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\async.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\detect-wakeup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\dl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\fs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\fs-event.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\getaddrinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\getnameinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\handle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\loop-watcher.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\pipe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\process.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\process-stdio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\req.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\signal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\snprintf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\stream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\tty.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\winapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\src\win\winsock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xiaojiuwo\Desktop\GameSpyEmulator\ModuleDevelopmentKit\libuv\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B8E1F182-32EB-366F-AF35-A044FA97035E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
