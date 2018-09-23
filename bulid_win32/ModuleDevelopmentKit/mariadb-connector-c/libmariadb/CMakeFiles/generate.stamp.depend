@@ -1,7 +1,0 @@
-# CMake generation dependency list for this directory.
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/cmake/export.cmake
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/cmake/sign.cmake
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/cmake/symlink.cmake
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/libmariadb/CMakeLists.txt
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/libmariadb/ma_client_plugin.c.in
-C:/Users/xiaojiuwo/Desktop/GameSpyEmulator/ModuleDevelopmentKit/mariadb-connector-c/win/resource.rc.in
