@@ -17,6 +17,12 @@ set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} -D_DEBUG")
 
 include_directories(ModuleDevelopmentKit/include)
 
+if (${CMAKE_SIZEOF_VOID_P} EQUAL 8)
+	set(RS_64BIT 1)
+else()
+	set(RS_64BIT 0)
+endif()
+
 add_subdirectory(ModuleDevelopmentKit)
 add_subdirectory(MasterServer)
 add_subdirectory(RetroSpyServer)
