@@ -12,7 +12,7 @@ env:
   
 before_script:
   - sudo apt-get update
-  - sudo apt install -y libuv1-dev libmysqlclient-dev
+  - sudo apt install -y libmysqlclient-dev
   - mkdir build
   - cd build
   - cmake -DCMAKE_BUILD_TYPE=$BUILD_TYPE -DWITH_MYSQL=ON ..
