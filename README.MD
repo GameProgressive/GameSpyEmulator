@@ -1,4 +1,4 @@
-# GameSpy Emulator [![Build Status](https://travis-ci.org/GameProgressive/GameSpyEmulator.svg?branch=master)](https://travis-ci.org/GameProgressive/GameSpyEmulator) [https://ci.appveyor.com/api/projects/status/github/gameprogressive/gamespyemulator?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/gameprogressive/gamespyemulator?branch=master&svg=true)
+# GameSpy Emulator [![Build Status](https://travis-ci.org/GameProgressive/GameSpyEmulator.svg?branch=master)](https://travis-ci.org/GameProgressive/GameSpyEmulator) [![Build Status](https://ci.appveyor.com/api/projects/status/github/gameprogressive/gamespyemulator?branch=master&svg=true)](https://ci.appveyor.com/api/projects/status/github/gameprogressive/gamespyemulator?branch=master&svg=true)
 
 
 This repository clone everything you need to start using the RetroSpy Emulator.,
