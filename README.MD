@@ -1,11 +1,12 @@
 # GameSpy Emulator [![Travis Status](https://travis-ci.org/GameProgressive/GameSpyEmulator.svg?branch=master)](https://travis-ci.org/GameProgressive/GameSpyEmulator) [![Appveyor Status](https://ci.appveyor.com/api/projects/status/github/gameprogressive/gamespyemulator?branch=master&svg=true)](https://ci.appveyor.com/project/arves100/gamespyemulator)
 
-
 This repository clone everything you need to start using the RetroSpy Emulator.,
 You will need git in order to download and cmake to build the code.
 
 Make sure to write this command after you cloned the repository:
 `git submodule update --init --recursive --force`
+
+If you fall into any problem building or compiling, or simply want to contribute to the project, feel free to join #retrospy@freenode (IRC).
 
 ### Building
 Use cmake to build the project, after you're builded it, copy this example MasterServer.ini inside
