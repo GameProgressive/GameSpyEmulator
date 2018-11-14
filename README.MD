@@ -6,7 +6,7 @@ You will need git in order to download and cmake to build the code.
 Make sure to write this command after you cloned the repository:
 `git submodule update --init --recursive --force`
 
-If you fall into any problem building or compiling, or simply want to contribute to the project, feel free to join #retrospy@freenode (IRC).
+If you fall into any problem building or compiling, or simply want to contribute to the project, feel free to join under the IRC channel #retrospy@freenode or the discord server https://discord.gg/Tv85Am4.
 
 ### Building
 Use cmake to build the project, after you're builded it, copy this example MasterServer.ini inside
